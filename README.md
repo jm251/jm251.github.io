@@ -2,7 +2,7 @@
 <h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
+<p align="left"> <img src="https://www.instagram.com/p/B1Kxb3uAAYby4_p-bhqBcCM3hX_ZxnPPZ7nms80/?hl=en" alt="pintu" /> </p>
 
 
 - 🔭 I’m currently working on web application projects using Django and python and other side using JSP and hibernate.
@@ -30,7 +30,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spandey1296)  <br><br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jm251)  <br><br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a><br><br>
 
