@@ -1,5 +1,5 @@
 # jm251.github.io
-<h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
+<h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
@@ -13,19 +13,16 @@
 
 - 👯 I’m looking to collaborate on **Django Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
+- 👨‍💻 All of my projects are available at [https://github.com/jm251](https://github.com/jm251)
 
-- 📝 I regulary write articles on [https://coder2hacker.blogspot.com/](https://coder2hacker.blogspot.com/)
+- 📝 I regulary write articles on [jm251.github.io](https:jm251.github.io)
 
 - 💬 Ask me about **Java,Python,Web Developement,Wordpress,AWS,DBMS,DS&Algo,CN,Linux,Android**
 
-- 📫 How to reach me **shivant47@gmail.com**
+- 📫 How to reach me **jm0046476@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among Students**
 
-- ⚡ I'm Mentor for  the students at Shiksha Ask&Answer Platform : [Mentor at shiksha!](https://www.shiksha.com/userprofile/11751401)
-
-- ⚡ I'm providing technology updates. [Join facebook group!](https://www.facebook.com/groups/714004659022843/?ref=share)
 
 
 
@@ -39,19 +36,6 @@
 
 
 
-# # GITHUB TROPHIES, STATISTICS, BADGES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=spandey1296)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-
-![Profile views](https://gpvc.arturio.dev/spandey1296)  <br><br>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296&layout=compact&hide=html" alt="spandey1296" /></p><br><br><br><br>
 
 
 
