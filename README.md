@@ -47,16 +47,16 @@ Happy coding !!
 <h3><strong>connect with me!</strong></h3><br><br>
 
 <p align="center">
-<a href="https://twitter.com/shivant9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivant9" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/shivantkumarpandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivantkumarpandey" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/shivant kumar pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shivant kumar pandey" height="30" width="30" /></a>
-<a href="https://kaggle.com/shivantkumarpandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shivantkumarpandey" height="30" width="30" /></a>
-<a href="https://fb.com/ashwini.pandey.376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashwini.pandey.376" height="30" width="30" /></a>
-<a href="https://instagram.com/shivant_pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivant_pandey" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/shivant pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shivant pandey" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/spandey_cse18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="spandey_cse18" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/shivant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shivant" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/shivantpandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shivantpandey" height="30" width="30" /></a>
+<a href="https://twitter.com/PintuKu41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pintu-kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13448269/pintu-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/pintukumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC4pvfTRkx3gQmIlP5vRoIPA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/8709793486jio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pintu" height="30" width="30" /></a>
 </p>
 
 
